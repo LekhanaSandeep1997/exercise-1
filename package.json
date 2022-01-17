@@ -1,0 +1,22 @@
+{
+  "name": "exercise-2",
+  "version": "1.0.0",
+  "description": "Exercise 1 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LekhanaSandeep1997/exercise-1.git"
+  },
+  "author": "Lekhana Sandeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LekhanaSandeep1997/exercise-1/issues"
+  },
+  "homepage": "https://github.com/LekhanaSandeep1997/exercise-1#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
